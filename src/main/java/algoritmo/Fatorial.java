@@ -1,4 +1,4 @@
-package EX6;
+package algoritmo;
 
 import java.util.Scanner;
 

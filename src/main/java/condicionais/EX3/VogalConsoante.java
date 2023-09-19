@@ -1,4 +1,4 @@
-package EX3;
+package condicionais.EX3;
 
 import java.util.Scanner;
 

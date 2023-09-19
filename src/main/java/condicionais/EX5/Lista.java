@@ -1,4 +1,4 @@
-package EX5;
+package condicionais.EX5;
 
 import java.util.ArrayList;
 import java.util.Collections;

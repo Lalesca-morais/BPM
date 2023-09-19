@@ -1,4 +1,4 @@
-package EX2;
+package condicionais.EX2;
 
 import java.util.Scanner;
 

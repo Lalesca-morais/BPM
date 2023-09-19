@@ -1,4 +1,4 @@
-package EX7;
+package mediaCombustivel;
 
 import java.io.BufferedReader;
 import java.io.IOException;
